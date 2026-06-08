@@ -1,6 +1,8 @@
 :root {
-  --alice-blue: #f1f7fe;
   --haiti: #2f2d3a;
+  /* font color */
+  --alice-blue: #f1f7fe;
+  /* background color */
   --whisper: #e7e7e7;
   --fire-engine-red: #e50222;
   --orange: #fda301;
